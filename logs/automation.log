@@ -1,0 +1,10 @@
+2025-06-10 11:19:47 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [F:\Automation\Selenium\OpenCart123\master.xml] otherwise TestNG may fail or not work as expected.
+2025-06-10 11:19:53 INFO  TC_002_LoginTest:16 - Starting the login test
+2025-06-10 11:19:53 INFO  TC_002_LoginTest:20 - Clicked on my account
+2025-06-10 11:19:53 INFO  TC_002_LoginTest:22 - Clicked on my login
+2025-06-10 11:19:54 INFO  TC_002_LoginTest:36 - Finished Testing
+2025-06-10 11:42:38 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [F:\Automation\Selenium\OpenCart123\master.xml] otherwise TestNG may fail or not work as expected.
+2025-06-10 11:42:43 INFO  TC_002_LoginTest:16 - Starting the login test
+2025-06-10 11:42:43 INFO  TC_002_LoginTest:20 - Clicked on my account
+2025-06-10 11:42:43 INFO  TC_002_LoginTest:22 - Clicked on my login
+2025-06-10 11:42:44 INFO  TC_002_LoginTest:36 - Finished Testing
